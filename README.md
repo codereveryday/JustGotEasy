@@ -121,9 +121,9 @@ git clone https://github.com/codereveryday/JustGotEasy
 
 cd JustGotEasy
 
-chmod +x install.sh
+chmod +x JGE.sh
 
-./install.sh
+./JGE.sh
 
 open terminal type "J" press enter
 
