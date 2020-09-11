@@ -1185,7 +1185,7 @@ then
 	fi
 elif [[ "$YN" = "11" ]]
 then
-	cat /root/lscript/wpslog
+	cat /root/JustGotEasy/wpslog
 	echo -e "Press "$YS"enter"$CE" to go back"
 	read
 elif [[ "$YN" = "0" ]]
