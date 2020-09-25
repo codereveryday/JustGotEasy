@@ -85,6 +85,15 @@ View your MAC faster
 	NoSQLMap                        by codingo, tcsstool
 	Evil-Droid                      by Mascerano Bachir
 	Iftop                           by Paul Warren, Chris Lightfoot
+	Lazy script                     by arismelachroinos
+	routersploit 			by thereat9 
+	Impulse				by LimerBoy
+	githacktools			by GitHackTools 
+	PENTESTING-BIBLE		by blaCCkHatHacEEkr 
+        wpscan 				by wpscanteam
+	hacker-roadmap			by sundowndev
+	 Osmedeus 			by j3ssie
+	
 	MORE ARE BEING ADDED ON EVERY UPDATE
 	
 **Wifi password scripts**
@@ -151,3 +160,5 @@ Supports Many New Tools
 Supports LazyScript Meaning You Can Run The LazyScript Api On Just Got Easy
 Supports Many More On The Upcoming Version Of 0.0.3
 Added many new tools like routersploit and many more 
+
+
