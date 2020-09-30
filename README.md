@@ -1,4 +1,4 @@
-## Welcome to  Just Got Easy v0.0.2
+## Welcome to  Just Got Easy v0.0.3
 <p align="center">
 <a href="https://ibb.co/9VbRKLF"><img src="https://i.ibb.co/YycvnMz/external-content-duckduckgo-com.jpg" alt="external-content-duckduckgo-com" border="0"></a>
 <a href="https://ibb.co/YhR4fDj"><img src="https://i.ibb.co/3cr5Sfh/jge.jpg" alt="jge" border="0"></a>
@@ -116,7 +116,7 @@ View your MAC faster
 **MADE FOR KALI LINUX**
 
 ```
-Just the Lazy script Framwork Easy to Use Become really lazy With Just Got Easy The Greatest Pentest Panel to Make your Job Easier
+Just the like the Lazy script Framework Easy to Use Become really lazy With Just Got Easy The Greatest Pentest CLI Program to Make your Job Easier
 
 smile We Love Defcon!!!!!!!!!
 
@@ -147,7 +147,7 @@ Changelog
 
 Upcoming Support 
 
-0.0.2
+0.0.3
 Welcome To JustGotEasy This Tool Will Make Your Job Easy Ethical
 Or UnEthical Up To You 
 
@@ -158,7 +158,7 @@ Added Support
 Supports Tor Browser 
 Supports Many New Tools 
 Supports LazyScript Meaning You Can Run The LazyScript Api On Just Got Easy
-Supports Many More On The Upcoming Version Of 0.0.3
+Supports Many More On The Upcoming Version Of 0.0.4
 Added many new tools like routersploit and many more 
 
 
