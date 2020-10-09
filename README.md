@@ -110,7 +110,7 @@ View your MAC faster
 	SQLmap automated
 	+more
 
-**Be carefull.If you download it as a .zip file, it will not run.Make sure to follow these simple instructions.**
+**Make sure to follow these simple instructions.**
 
 **MADE FOR KALI LINUX**
 
