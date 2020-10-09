@@ -159,5 +159,6 @@ Supports Many New Tools
 Supports LazyScript Meaning You Can Run The LazyScript Api On Just Got Easy
 Supports Many More On The Upcoming Version Of 0.0.4
 Added many new tools like routersploit and many more 
+Supports Alot Of Pentesting Tools 
 
 
