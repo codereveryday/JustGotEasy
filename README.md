@@ -5,8 +5,7 @@
 <a href="https://ibb.co/hKcSS8G"><img src="https://i.ibb.co/648kksK/Screenshot-from-2020-09-09-15-31-10.jpg" alt="Screenshot-from-2020-09-09-15-31-10" border="0"></a>
 </p>
 
-Enabling-Disabling interfaces faster
-Changing Mac faster
+
 Anonymizing yourself faster
 View your public IP faster
 View your MAC faster
